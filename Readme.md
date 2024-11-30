@@ -1,4 +1,4 @@
-# Sales Success Prediction Model
+#  B2B marketing-qualified lead (MQL) prediction
 
 ## 📋 Project Overview
 This project aims to develop machine learning models to predict sales success. Through various experiments with different models and optimization techniques, we achieved significant improvements in prediction performance.
